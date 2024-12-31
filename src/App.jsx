@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>React World tour</h1>
+      <h1 className='countries-head'>React World tour</h1>
 
       <Countries></Countries>
       
